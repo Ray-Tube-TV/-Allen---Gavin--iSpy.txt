@@ -1,1 +1,4 @@
-# -Allen---Gavin--iSpy.txt
+
+
+metal, glass, plastic
+silver, black, grey
